@@ -16,11 +16,13 @@ git submodule update --init
 
 ```shell
 # Create build directory
-mkdir build
+mkdir cmake-build-debug
+
 # Generate build files
 cmake -S . -B ./build
+
 # Build
-cmake --build ./build --config [Debug|Release] -j
+cmake --build ./cmake-build-debug --config [Debug|Release] -j
 ```
 
 ## Usage
