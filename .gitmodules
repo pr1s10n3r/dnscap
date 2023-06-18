@@ -1,0 +1,12 @@
+[submodule "thirdparty/libuv"]
+	path = thirdparty/libuv
+	url = https://github.com/libuv/libuv
+	branch = v1.x
+[submodule "thirdparty/spdlog"]
+	path = thirdparty/spdlog
+	url = https://github.com/gabime/spdlog
+	branch = v1.x
+[submodule "thirdparty/libpcap"]
+	path = thirdparty/libpcap
+	url = https://github.com/the-tcpdump-group/libpcap
+	branch = libpcap-1.10
