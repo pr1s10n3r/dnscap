@@ -8,7 +8,7 @@
 
 ## Install Third-Party Dependencies
 
-```shell`
+```shell
 git submodule update --init
 ``
 
