@@ -10,7 +10,7 @@
 
 ```shell
 git submodule update --init
-``
+```
 
 ## Build using CMake
 
